@@ -1,0 +1,19 @@
+body {
+    font-family: Helvetica, sans-serif;
+    padding: 20px;
+}
+.notification {
+    padding: 20px;
+    background-color: #fafad2;
+}
+.container {
+    border-right: #fafad2;
+    border-width: 2px;
+}
+input {
+    position: relative;
+    margin-top: 5px;
+    font-size: 1.2em;
+    width: 100%;
+    display: inline-block;
+}
